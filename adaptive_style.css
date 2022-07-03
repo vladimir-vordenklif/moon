@@ -1,0 +1,23 @@
+/* adaptation rules */
+@media (max-width: 1200px){
+    .conteiner_header{
+      width: 1140px;
+    }
+  }
+  @media (max-width: 992px){
+    .conteiner_header{
+      width: 960px;
+    }
+  }
+  @media (max-width: 768px){
+    .conteiner_header{
+      width: 720px;
+    }
+  }
+  @media (max-width: 576px){
+   
+  }
+  @media (max-width: 320px){
+   
+  }
+  
